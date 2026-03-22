@@ -1,0 +1,23 @@
+artifact_path: file:///Users/koichi/nexus-commerce/mlruns/388020727924906923/models/m-6975f47e35924b59a8962bb9384e4252/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-6975f47e35924b59a8962bb9384e4252
+model_size_bytes: 500762
+model_uuid: m-6975f47e35924b59a8962bb9384e4252
+prompts: null
+run_id: e96e6fe16dc84e8bae73efa6feca0709
+utc_time_created: '2026-03-22 01:21:05.256070'

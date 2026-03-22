@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/koichi/nexus-commerce/mlruns/388020727924906923/e96e6fe16dc84e8bae73efa6feca0709/artifacts
+end_time: 1774142472383
+entry_point_name: ''
+experiment_id: '388020727924906923'
+lifecycle_stage: active
+run_id: e96e6fe16dc84e8bae73efa6feca0709
+run_name: incongruous-ram-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774142464921
+status: 3
+tags: []
+user_id: koichi

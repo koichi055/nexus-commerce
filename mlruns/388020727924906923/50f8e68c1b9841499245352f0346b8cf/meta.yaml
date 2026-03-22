@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/koichi/nexus-commerce/mlruns/388020727924906923/50f8e68c1b9841499245352f0346b8cf/artifacts
+end_time: 1774142449378
+entry_point_name: ''
+experiment_id: '388020727924906923'
+lifecycle_stage: active
+run_id: 50f8e68c1b9841499245352f0346b8cf
+run_name: enchanting-newt-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774142440940
+status: 3
+tags: []
+user_id: koichi

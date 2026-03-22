@@ -1,0 +1,10 @@
+artifact_location: file:///Users/koichi/nexus-commerce/mlruns/388020727924906923/models/m-6975f47e35924b59a8962bb9384e4252/artifacts
+creation_timestamp: 1774142465235
+experiment_id: '388020727924906923'
+last_updated_timestamp: 1774142472283
+model_id: m-6975f47e35924b59a8962bb9384e4252
+model_type: null
+name: random_forest_model
+source_run_id: e96e6fe16dc84e8bae73efa6feca0709
+status: 2
+status_message: null

@@ -1,0 +1,7 @@
+artifact_location: file:///Users/koichi/nexus-commerce/mlruns/388020727924906923
+creation_time: 1774142440660
+experiment_id: '388020727924906923'
+last_update_time: 1774142440660
+lifecycle_stage: active
+name: books-rating-predictor
+workspace: default
